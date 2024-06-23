@@ -1,1 +1,2 @@
-# Optimal-Strategies-for-Occupant-Satisfaction
+## Thesis Project 
+## Optimal-Strategies-for-Occupant-Satisfaction
